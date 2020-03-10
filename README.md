@@ -27,7 +27,7 @@ Here are some of the standard features that are included in the project:
 
 ![](http://image.png)
 
-## Educational Features
+## All Features
 Here are some of the standard features that are included in the project:
 
 * **Drun -** blah, blah, blah, balh
