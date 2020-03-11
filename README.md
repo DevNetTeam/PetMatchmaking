@@ -1,57 +1,61 @@
 # PetMatchMaking
-The dynamic world we live in surprises us with each passing day. A nice example is the **PetMatchMaking** app, which connects pet owners. The main purpose for the user is to easily and quickly select by different criteria other dogs to meet your pet. PetMatchmaking builds a community of people who share a passion for quadrupeds and helps them create more and more fun shared moments. The intuitive design enables the user to become well acquainted with the other person and his or her pet, and the application logic is to contact only people who have shown mutual interest. In addition to connecting pet owners, **PetMatchMaking**'s mission is to assist them in raising their pet with helpful tips, recommendations for establishments and other dog-friendly places, as well as active work on various social causes.
+**PetMatchMaking**: To make Pet parenting an easier, happier & memorable journey we have come up with *A platform* designed for and dedicated to Pet parents / Owners.
 
-![](http://image.png)
+## Social Overview
+**PetMatchMaking** Owners can create your pet's and their own profile. 
+* *Help Request Service*: Get immediate help like lost and found pet, emergency help for abandoned pets or stray animals etc. and more, and more...
+* *Meet Request Service*: Explore and find nearby pet owners. Meet with them.
+* *Match Request Service*:  Join pet events and participate in exciting pet competitions. Find a perfect match for your pet.
 
-## Overview
-Over the years, **PetMatchMaking** has evolved from a small-scale tutorial based website into one fastest growing, most innovative social networks on the web.
-
-<https://?.PetMatchMaking.?/>
-
-## How to Setup
-Blah blah blah blah
-
-* [Windows](https://info.?)
-
-## Social Features
+## Social Details
 Here are some of the standard features that are included in the project:
+**Pet Owners can Find & Connect with**:
+* *Dog walkers*.
+* *Pets* & other *Pet Owners* in your neighborhood or our city.
+* *Pet events*, *parties*, outings & dog shows.
+* *Adoption* & *buying pets*: Get notified about all pets available for adoption in your area or city. Connect with reputed breeders in case you prefer buying any specific breed which is not available for adoption.
+* *Go to dating*, *Pet Marriage*
 
-* **Pet -** view all...
-* **User Profiles -** view all...
-* **Post Settings -** view all...
-* **Request -** view all...
-* **Real Map -** view all...
-* **Rating user -** view all...
-* **Curious -** view all...
-* **Info -** view all...
+## Pet Match Making a community *dedicated to Pets* and make pet parenting an easier, happier & memorable journey with your pets.
 
-![](http://image.png)
+# SRS
+Read our **[SRS](/SRS_DevNetTeam_Draft.pdf)** for more information. 
+
+## How to Use
+Read our *[Manual](/UserManual_02.pdf)*
+
+## Web site test
+Visit our web site *[Web](https://buda.ninja)*
+
+# Feaures
 
 ## All Features
 Here are some of the standard features that are included in the project:
 
-* **Drun -** blah, blah, blah, balh
-* **Brum -** blah, blah, blah, balh
-* **Dzun -** blah, blah, blah, balh
-* **Mrun  -** blah, blah, blah, balh
-
-![](http://image.png)
-
-* **toto -** drun
-* **toto -** drun
-* **toto -**  drun
-
-![](http://image.png)
+* *Profile* Create Owner profile, view, edit
+* *Pet* Create profile pet, view, edit, delete, 
+* *Request* Create, view, edit delete request
+* *Category request* Help, Meet, Match, view all
+* *Filter request* Sort all request
+* *Map* View on Google Map for profile address, request
+* *Filter request* Sort all request, show all
+* *Like system* Liking request, mark as done or unliked
+* *Rating owner* Rating pet owner for the request
+* *Cotact us* Simply email us
+* *Info* Contain Policy, Terms, Help, About us, Team
+* *Stories* Natural stories about pet.
 
 ## Next Features
-Easily manage posts, users, and permissions.
 
-* **Manage Users -** advanced management system to verify, ban, and delete users
-* **Manage Posts -** ability to review, edit, and delete
-* **User Permissions -** easily manage permissions for registered users, moderators, and administrators
-* **Reporting -** community based reporting system for forum topics, profile posts, and more
+* *Admin* Easily manage posts, users, and permissions
+* *User* Easily create and manage messages
 
-## Contribute
-Drun drun drun drun...
+* *Notice* and *messages* between pet owners
+* *Pets Search* for *Match Making*
+* *More type* and info like *temper* of the pets etc.
+
+* *Blog stories* and *news*
+
+* More [Features](/features.md)
 
 ![](http://image.png)
