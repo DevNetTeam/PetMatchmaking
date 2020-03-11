@@ -1,4 +1,7 @@
 # PetMatchMaking
+
+![](media/LogoElement.png)
+
 **PetMatchMaking**: To make Pet parenting an easier, happier & memorable journey we have come up with *A platform* designed for and dedicated to Pet parents / Owners.
 
 ## Social Overview
@@ -57,5 +60,3 @@ Here are some of the standard features that are included in the project:
 * *Blog stories* and *news*
 
 * More [Features](/features.md)
-
-![](http://image.png)
