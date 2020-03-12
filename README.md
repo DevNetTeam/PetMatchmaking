@@ -5,7 +5,7 @@
 **PetMatchMaking**: To make Pet parenting an easier, happier & memorable journey we have come up with *A platform* designed for and dedicated to Pet parents / Owners.
 
 ## Social Overview
-**PetMatchMaking** Owners can create your pet's and their own profile. 
+**PetMatchMaking** Pet Owners can create their pet's and their own profile. 
 * *Help Request Service*: Get immediate help like lost and found pet, emergency help for abandoned pets or stray animals etc. and more, and more...
 * *Meet Request Service*: Explore and find nearby pet owners. Meet with them.
 * *Match Request Service*:  Join pet events and participate in exciting pet competitions. Find a perfect match for your pet.
