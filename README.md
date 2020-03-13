@@ -64,3 +64,5 @@ Here are some of the standard features that are included in the project:
 # Maintenance and Evolution
 
 Read our **[Evolution](Maintenance_and_Evolution.pdf)** for more information.
+
+# [Meet our Team](MeerOurTeam.pdf)
