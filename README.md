@@ -27,9 +27,6 @@ Read our **[SRS](SRS_DevNetTeam_Draft.pdf)** for more information.
 ## How to Use
 Read our *[Manual](UserManual_02.pdf)*
 
-## Web site test
-Visit our web site *[Web](https://buda.ninja)*
-
 # Feaures
 
 ## All Features
